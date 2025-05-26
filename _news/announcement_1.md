@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-05-19
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our recent work ''[Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation](https://arxiv.org/abs/2505.12084)'' is currently under review for IROS 2025!
