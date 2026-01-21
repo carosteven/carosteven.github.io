@@ -95,11 +95,19 @@
   ],
   "publications": [
     {
-      "name": "Bench-NPIN: Benchmarking Non-prehensile Interactive Navigation",
+      "name": "Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots",
       "publisher": "(In Review)",
-      "releaseDate": "2025-05-19",
-      "url": "https://arxiv.org/abs/2505.12084",
-      "summary": "Bench-NPIN is a comprehensive benchmark for evaluating non-prehensile interactive navigation tasks. It provides simulated environments, evaluation metrics, and baseline demonstrations, and is available as an open-source Python library."
+      "releaseDate": "2025-09-16",
+      "url": "https://arxiv.org/abs/2512.11736",
+      "summary": "BenchPush is a comprehensive benchmarking suite designed for mobile robots performing pushing-based tasks. The goal is to provide researchers with a standardized platform for training and evaluating algorithms in both pushing-based navigation and manipulation. The suite includes a variety of simulated environments, evaluation metrics that capture task efficiency and interaction effort, as well as policy templates with reference implementations."
+    },
+
+    {
+      "name": "Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation",
+      "publisher": "(In Review)",
+      "releaseDate": "2025-12-10",
+      "url": "https://arxiv.org/abs/2512.10099",
+      "summary": "HeRD (Hierarchical RL-Diffusion Policy) is a robot control framework that combines high-level spatial reinforcement learning with low-level diffusion-based trajectory generation for efficient nonprehensile manipulation in cluttered environments."
     }
   ],
   "projects": [
